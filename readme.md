@@ -1,5 +1,3 @@
-# Project Title
-
 Comparative Analysis of Multimodal Large Language Models and Human Performance in Diagnostic Accuracy
 
 ## Description
