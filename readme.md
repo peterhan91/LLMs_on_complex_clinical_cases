@@ -1,4 +1,4 @@
-Comparative Analysis of Multimodal Large Language Models and Human Performance in Diagnostic Accuracy
+# Comparative Analysis of Multimodal Large Language Models and Human Performance in Diagnostic Accuracy
 
 ## Description
 
